@@ -10,3 +10,16 @@ bazel-flecs
 bazel-genfiles
 bazel-out
 bazel-testlogs
+CMakeCache.txt
+CMakeFiles/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+_3rdParty/
+cmake_install.cmake
+*.dir/
+x64/
+Debug/
+Release/
+.vs/

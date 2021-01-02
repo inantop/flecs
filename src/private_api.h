@@ -1,7 +1,7 @@
 #ifndef FLECS_PRIVATE_H
 #define FLECS_PRIVATE_H
 
-#include "private_types.h"
+#include "flecs/private/private_types.h"
 
 ////////////////////////////////////////////////////////////////////////////////
 //// Core bootstrap functions
